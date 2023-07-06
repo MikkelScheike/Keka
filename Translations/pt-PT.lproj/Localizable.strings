@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "A criar “%@”";
 "Preparing extraction..." = "A preparar a extração…";
 "Choose a folder to extract this file" = "Escolha uma pasta para onde extrair este ficheiro comprimido";
-"Choose where do you want to extract \"%@\"" = "Escolha onde quer extrair “%@”";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Selecione todos os volumes de “%@” ou a pasta que os contém";
-"Select the folder that contains \"%@\"" = "Selecione a pasta que contém “%@”";
+"Choose where do you want to extract \"%@\"." = "Escolha onde quer extrair “%@”.";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Selecione todos os volumes de “%@” ou a pasta que os contém.";
+"Select the folder that contains \"%@\"." = "Selecione a pasta que contém “%@”.";
 "Extraction of \"%@\" failed" = "A extração de “%@” falhou";
 "Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";
@@ -231,6 +231,13 @@
 "Review Keka ★★★★★" = "Avaliar o Keka ★★★★★";
 "Update the default password" = "Update the default password";
 "Set a default password" = "Set a default password";
+"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "To enable external volumes access go to your main disk and select the \"Volumes\" folder.";
+"Verifying..." = "Verifying...";
+"Verification of \"%@\" failed" = "Verification of \"%@\" failed";
+"The compressed data seems to be invalid" = "The compressed data seems to be invalid";
+"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Encrypted Apple Archive files are only supported on macOS 12 or newer";
+"The password length should be %i or higher" = "The password length should be %i or higher";
+" (Entire Device)" = " (Entire Device)";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Preferências…";
 

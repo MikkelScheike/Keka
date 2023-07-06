@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "Erstelle „%@“";
 "Preparing extraction..." = "Entpacken vorbereiten …";
 "Choose a folder to extract this file" = "Wähle einen Ordner für die entpackten Dateien, um die Archivdatei zu entpacken";
-"Choose where do you want to extract \"%@\"" = "Wähle, wohin du „%@“ entpacken willst";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Wähle alle Volumes in „%@“ oder den Ordner, welcher sie enthält";
-"Select the folder that contains \"%@\"" = "Wähle den Ordner, welcher „%@“ enthält";
+"Choose where do you want to extract \"%@\"." = "Wähle, wohin du „%@“ entpacken willst.";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Wähle alle Volumes in „%@“ oder den Ordner, welcher sie enthält.";
+"Select the folder that contains \"%@\"." = "Wähle den Ordner, welcher „%@“ enthält.";
 "Extraction of \"%@\" failed" = "Entpacken von „%@“ fehlgeschlagen";
 "Extraction of \"%@\" completed" = "Entpacken von „%@“ abgeschlossen";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Die Entpackung wurde abgeschlossen, aber die Quarantäne wurde nicht angewendet.\nBitte installiere Keka neu, um dieses Problem zu beheben.";
@@ -231,6 +231,13 @@
 "Review Keka ★★★★★" = "Bewerte Keka ★★★★★";
 "Update the default password" = "Aktualisiere das Standardpasswort";
 "Set a default password" = "Setze das Standardpasswort";
+"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "To enable external volumes access go to your main disk and select the \"Volumes\" folder.";
+"Verifying..." = "Verifying...";
+"Verification of \"%@\" failed" = "Verification of \"%@\" failed";
+"The compressed data seems to be invalid" = "The compressed data seems to be invalid";
+"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Encrypted Apple Archive files are only supported on macOS 12 or newer";
+"The password length should be %i or higher" = "The password length should be %i or higher";
+" (Entire Device)" = " (Entire Device)";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Einstellungen …";
 

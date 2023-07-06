@@ -48,7 +48,7 @@
 "264.title" = "壓縮完成後在 Finder 中顯示";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
-"265.title" = "排除 Mac 的資源 fork (例如: .DS_Store)";
+"265.title" = "排除 Mac 的資源檔 (例如: .DS_Store)";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
 "279.title" = "每次都詢問";
@@ -191,10 +191,13 @@
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "啟用完整 Mac 取用權限（建議）";
 
+/* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "IL6-a6-uik"; */
+"IL6-a6-uik.title" = "驗證壓縮完整性";
+
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
 "JxT-Nq-8Z5.title" = "啟用外部卷宗的取用權限後，Keka 即可取用如 USB 或 Thunderbolt 的外接硬碟。";
 
-/* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equiped Macs will only use \"Eficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
+/* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equipped Macs will only use \"Efficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
 "Jyq-vC-L5r.title" = "優先級愈低，時間愈長。搭載 Apple 晶片之 Mac 上的最低優先級，僅會使用「效率」核心——這樣執行的作業耗時較長，但更節能。\n已在執行的作業，優先級則不受改變。";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
@@ -210,7 +213,7 @@
 "ND5-DN-C1H.title" = "限制每次動作的執行緒數量：";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "NwI-O4-9NI"; */
-"NwI-O4-9NI.title" = "排除 Mac 的資源 fork（例如：.DS_Store）";
+"NwI-O4-9NI.title" = "排除 Mac 的資源檔（例如：.DS_Store）";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
 "PD2-iW-BGK.title" = "啟用家目錄取用權限後，Keka 才能在您所有的使用者檔案使用，例如「桌面」或「下載」檔案夾。";
@@ -238,9 +241,6 @@
 
 /* Class = "NSMenuItem"; title = "Highest"; ObjectID = "Xl7-AN-Kgw"; */
 "Xl7-AN-Kgw.title" = "最高";
-
-/* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
-"Xoi-ui-e7P.title" = "在 DMG 檔案使用 BZIP2 壓縮（比較好，但比較慢）";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
 "ZOx-vr-5o7.title" = "啟用完整 Mac 取用權限，這樣 Keka 才能在您整個 Mac 使用";
@@ -346,3 +346,6 @@
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
 "zRi-PC-AW9.title" = "嘗試使用預設密碼解壓縮任何檔案";
+
+/* Class = "NSButtonCell"; title = "Automatically install new updates"; ObjectID = "zTa-p3-fHX"; */
+"zTa-p3-fHX.title" = "自動安裝新更新";

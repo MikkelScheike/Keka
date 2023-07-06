@@ -191,10 +191,13 @@
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "Habilitar l'accés complet (Recomanat)";
 
+/* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "IL6-a6-uik"; */
+"IL6-a6-uik.title" = "Verifica la integritat de la compressió";
+
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
 "JxT-Nq-8Z5.title" = "Habilita l'accés a volums externs per tal que el Keka pugui funcionar en els teus discos externs, com els USB o Thunderbolt.";
 
-/* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equiped Macs will only use \"Eficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
+/* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equipped Macs will only use \"Efficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
 "Jyq-vC-L5r.title" = "A menor prioritat més temps d'execució. La prioritat més baixa (segon pla) en Macs amb processador d'Apple únicament farà servir els nuclis \"Eficients\", produint operacions més llargues però molt més eficients energèticament.\nNo es modificarà la prioritat de les operacions que ja estiguin en marxa.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
@@ -238,9 +241,6 @@
 
 /* Class = "NSMenuItem"; title = "Highest"; ObjectID = "Xl7-AN-Kgw"; */
 "Xl7-AN-Kgw.title" = "Primer pla";
-
-/* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
-"Xoi-ui-e7P.title" = "Utilitza BZIP2 per a comprimir els archius DMG (millor però més lent)";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
 "ZOx-vr-5o7.title" = "Habilita l'accés complet per tal que el Keka funcioni amb tots els fitxers del Mac.";
@@ -346,3 +346,6 @@
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
 "zRi-PC-AW9.title" = "Prova la contrasenya per defecte a l'extreure un arxiu";
+
+/* Class = "NSButtonCell"; title = "Automatically install new updates"; ObjectID = "zTa-p3-fHX"; */
+"zTa-p3-fHX.title" = "Instal·la les actualitzacions automàticament";

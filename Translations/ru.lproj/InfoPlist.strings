@@ -1,6 +1,6 @@
 
 /* Usually leave this one in English */
-"NSHumanReadableCopyright" = "Copyright © 2009-2022 aONe";
+"NSHumanReadableCopyright" = "Copyright © 2009-2023 aONe";
 
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "Для работы с файлами Keka требуется доступ к Рабочему столу.";
@@ -61,6 +61,6 @@
 "Apple Archive" = "Архив Apple";
 "WordPress All-in-One Backup" = "Полная резервная копия WordPress";
 "InstallShield 3 Archive" = "Архив InstallShield 3";
-"Compact Pro Archive" = "Compact Pro Archive";
-"Synology Package Archive" = "Synology Package Archive";
+"Compact Pro Archive" = "Архив Compact Pro";
+"Synology Package Archive" = "Архив пакета Synology";
 "Keka Extraction Package" = "Пакет распаковки Keka";

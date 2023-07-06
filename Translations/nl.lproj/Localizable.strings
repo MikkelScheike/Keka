@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "Aanmaken van \"%@\"";
 "Preparing extraction..." = "Voorbereiden van uitpakken…";
 "Choose a folder to extract this file" = "Kies een map om dit bestand uit te pakken";
-"Choose where do you want to extract \"%@\"" = "Kies waar je uit wil pakken \"%@\"";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Selecteer alle volumen van \"%@\" of die map die ze bevat";
-"Select the folder that contains \"%@\"" = "Selecteer de map die bevat \"%@\"";
+"Choose where do you want to extract \"%@\"." = "Kies waar je uit wil pakken \"%@\".";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Selecteer alle volumen van \"%@\" of die map die ze bevat.";
+"Select the folder that contains \"%@\"." = "Selecteer de map die bevat \"%@\".";
 "Extraction of \"%@\" failed" = "Uitpakken van \"%@\" mislukt";
 "Extraction of \"%@\" completed" = "Uitpakken van \"%@\" voltooid";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Uitpakken is gelukt maar quarantine kon niet toegepast worden.\nInstalleer Keka alstublieft opnieuw om dit op te lossen";
@@ -231,6 +231,13 @@
 "Review Keka ★★★★★" = "Geef Keka een ★★★★★ recensie";
 "Update the default password" = "Werk het standaard wachtwoord bij";
 "Set a default password" = "Stel een standaard wachtwoord in";
+"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "Om toegang tot externe schijfstations toe te staan, ga naar je primaire schijf en selecteer de \"Volumes\" map.";
+"Verifying..." = "Verifiëren...";
+"Verification of \"%@\" failed" = "Verificatie van \"%@\" is mislukt";
+"The compressed data seems to be invalid" = "De gecomprimeerde data lijkt ongeldig of beschadigd";
+"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Beveiligde Apple Archief bestanden worden alleen ondersteund op macOS 12 of nieuwer";
+"The password length should be %i or higher" = "Wachtwoord lengte moet %i of langer zijn";
+" (Entire Device)" = " (Hele Apparaat)";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Voorkeuren…";
 

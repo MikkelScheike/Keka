@@ -6,7 +6,7 @@
 "2222.title" = "壓縮完成後刪除檔案";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
-"2244.title" = "排除 Mac 資源 fork";
+"2244.title" = "排除 Mac 資源檔";
 
 /* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
 "2262.title" = "密碼：";
@@ -83,5 +83,8 @@
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
 "UYy-aQ-V1a.title" = "實體壓縮檔";
 
-/* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
-"qhy-NU-Cts.title" = "使用 BZIP2 壓縮";
+/* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "dDw-7W-5ff"; */
+"dDw-7W-5ff.title" = "格式：";
+
+/* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "gqN-A9-jPb"; */
+"gqN-A9-jPb.title" = "驗證壓縮完整性";

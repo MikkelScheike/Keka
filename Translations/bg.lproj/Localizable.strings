@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "Създаване \"%@\"";
 "Preparing extraction..." = "Подготвяне на разархивирането…";
 "Choose a folder to extract this file" = "Избери папка, за да се разархивира файла";
-"Choose where do you want to extract \"%@\"" = "Избери къде искаш да разархивираш \"%@\"";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Избери всичките томове от \"%@\" или папката, която съдържа файла";
-"Select the folder that contains \"%@\"" = "Избери папката, която съдържа \"%@\"";
+"Choose where do you want to extract \"%@\"." = "Избери къде искаш да разархивираш \"%@\".";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Избери всичките томове от \"%@\" или папката, която съдържа файла.";
+"Select the folder that contains \"%@\"." = "Избери папката, която съдържа \"%@\".";
 "Extraction of \"%@\" failed" = "Разархивирането на \"%@\" се провали";
 "Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Извличането завърши, но карантината не беше приложена.\nМоля, инсталирайте отново Keka, за да коригирате този проблем";
@@ -231,6 +231,13 @@
 "Review Keka ★★★★★" = "Оцени Keka ★★★★★";
 "Update the default password" = "Актуализирай паролата по подразбиране";
 "Set a default password" = "Настрой парола по подразбиране";
+"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "To enable external volumes access go to your main disk and select the \"Volumes\" folder.";
+"Verifying..." = "Verifying...";
+"Verification of \"%@\" failed" = "Verification of \"%@\" failed";
+"The compressed data seems to be invalid" = "The compressed data seems to be invalid";
+"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Encrypted Apple Archive files are only supported on macOS 12 or newer";
+"The password length should be %i or higher" = "The password length should be %i or higher";
+" (Entire Device)" = " (Entire Device)";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Настройки…";
 

@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "Création de \"%@\"";
 "Preparing extraction..." = "Préparation de l'extraction...";
 "Choose a folder to extract this file" = "Choisissez un dossier où extraire ce fichier";
-"Choose where do you want to extract \"%@\"" = "Choisissez où vous voulez extraire \"%@\"";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Sélectionner tous les volumes de \"%@\" ou le dossier qui les contient";
-"Select the folder that contains \"%@\"" = "Sélectionner le dossier qui contient \"%@\"";
+"Choose where do you want to extract \"%@\"." = "Choisissez où vous voulez extraire \"%@\".";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Sélectionner tous les volumes de \"%@\" ou le dossier qui les contient.";
+"Select the folder that contains \"%@\"." = "Sélectionner le dossier qui contient \"%@\".";
 "Extraction of \"%@\" failed" = "L'extraction de \"%@\" a échoué";
 "Extraction of \"%@\" completed" = "Extraction de \"%@\" terminée";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "L'extraction s'est terminée mais la quarantaine n'a pas été appliquée.\nVeuillez réinstaller Keka pour corriger le problème";
@@ -231,6 +231,13 @@
 "Review Keka ★★★★★" = "Evaluer Keka ★★★★★";
 "Update the default password" = "Mettre à jour le mot de passe par défaut";
 "Set a default password" = "Définir un mot de passe par défaut";
+"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "Pour activer l'accès aux volumes externes, allez à votre disque principal et sélectionnez le dossier \"Volumes\".";
+"Verifying..." = "Vérification...";
+"Verification of \"%@\" failed" = "La vérification de \"%@\" a échoué";
+"The compressed data seems to be invalid" = "Les données compressées semblent invalides";
+"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Les fichiers Archive Apple chiffrés ne sont supportées qu'à partir de macOS 12.0";
+"The password length should be %i or higher" = "Le mot de passe devrait comporter au moins %i caractères";
+" (Entire Device)" = " (Tout l'appareil)";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Préférences…";
 

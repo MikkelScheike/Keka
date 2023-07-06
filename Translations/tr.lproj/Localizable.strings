@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "\"%@\" oluşturuluyor";
 "Preparing extraction..." = "Çıkarma hazırlanıyor…";
 "Choose a folder to extract this file" = "Bu dosyayı çıkarmak için bir klasör seçin";
-"Choose where do you want to extract \"%@\"" = "Nereye çıkarmak istediğinizi seçin \"%@\"";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Tüm birimleri \"%@\" veya onları içeren klasörden seçin";
-"Select the folder that contains \"%@\"" = "\"%@\" içeren klasörü seçin";
+"Choose where do you want to extract \"%@\"." = "Nereye çıkarmak istediğinizi seçin \"%@\".";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Tüm birimleri \"%@\" veya onları içeren klasörden seçin.";
+"Select the folder that contains \"%@\"." = "\"%@\" içeren klasörü seçin.";
 "Extraction of \"%@\" failed" = "\"%@\" çıkarımı başarısız oldu";
 "Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";
@@ -231,6 +231,13 @@
 "Review Keka ★★★★★" = "Keka'yı değerlendir ★★★★★";
 "Update the default password" = "Varsayılan şifreyi güncelle";
 "Set a default password" = "Varsayılan bir şifre belirleyin";
+"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "To enable external volumes access go to your main disk and select the \"Volumes\" folder.";
+"Verifying..." = "Verifying...";
+"Verification of \"%@\" failed" = "Verification of \"%@\" failed";
+"The compressed data seems to be invalid" = "The compressed data seems to be invalid";
+"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Encrypted Apple Archive files are only supported on macOS 12 or newer";
+"The password length should be %i or higher" = "The password length should be %i or higher";
+" (Entire Device)" = " (Entire Device)";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Tercihler…";
 

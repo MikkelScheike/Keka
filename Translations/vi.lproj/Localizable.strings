@@ -63,11 +63,11 @@
 "Creating \"%@\"" = "Đang tạo \"%@\"";
 "Preparing extraction..." = "Chuẩn bị giải nén…";
 "Choose a folder to extract this file" = "Chọn một thư mục để giải nén tập tin này";
-"Choose where do you want to extract \"%@\"" = "Chọn nơi bạn muốn giải nén \"%@\"";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Chọn tất cả phân vùng từ \"%@\" hoặc thư mục mà nó chứa chúng";
-"Select the folder that contains \"%@\"" = "Chọn thư mục mà nó chứa \"%@\"";
+"Choose where do you want to extract \"%@\"." = "Chọn nơi bạn muốn giải nén \"%@\".";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Chọn tất cả phân vùng từ \"%@\" hoặc thư mục mà nó chứa chúng.";
+"Select the folder that contains \"%@\"." = "Chọn thư mục mà nó chứa \"%@\".";
 "Extraction of \"%@\" failed" = "Giải nén cho \"%@\" thất bại";
-"Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
+"Extraction of \"%@\" completed" = "Giải nén cho \"%@\" hoàn tất";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Giải nén đã hoàn tất nhưng lệnh cách ly đã không được áp dụng. \nVui lòng cài lại Keka để khắc phục vấn đề này";
 "Keka - %i on queue" = "Keka - %i trong hàng đợi";
 "Keka can't create this %@ image" = "Keka không thể tạo ra %@ ảnh đĩa";
@@ -231,6 +231,12 @@
 "Review Keka ★★★★★" = "Đánh giá Keka ★★★★★";
 "Update the default password" = "Cập nhật mật khẩu mặt định";
 "Set a default password" = "Cài đặt một mật khẩu mặt định";
+"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "Để bật quyền truy cập ổ cứng ngoài bạn hãy mở ổ cứng chính rồi chọn thư mục \"Volumes\".";
+"Verifying..." = "Đang xác minh...";
+"Verification of \"%@\" failed" = "Quá trình xác minh \"%@\" thất bại";
+"The compressed data seems to be invalid" = "Dữ liệu được nén có thể đã bị lỗi";
+"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Các tập tin Encrypted Apple Archive chỉ được hỗ trợ trên macOS 12 hoặc mới hơn";
+"The password length should be %i or higher" = "Độ dài mật khẩu nên từ %i ký tự hoặc cao hơn";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Cài đặt…";
 

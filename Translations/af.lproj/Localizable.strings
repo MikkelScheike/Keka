@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "Skep tans \“%@\”";
 "Preparing extraction..." = "Ekstrahering word voorberei…";
 "Choose a folder to extract this file" = "Kies ’n vouer om die lêer heen te ekstraheer";
-"Choose where do you want to extract \"%@\"" = "Kies waarheen u \“%@\” wil ekstraheer";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Kies al die volumes van \“%@\” of die vouer waarin hulle is";
-"Select the folder that contains \"%@\"" = "Kies die vouer waarin \“%@\” lê";
+"Choose where do you want to extract \"%@\"." = "Kies waarheen u \“%@\” wil ekstraheer.";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Kies al die volumes van \“%@\” of die vouer waarin hulle is.";
+"Select the folder that contains \"%@\"." = "Kies die vouer waarin \“%@\” lê.";
 "Extraction of \"%@\" failed" = "Ekstraheer van \“%@\” het misluk";
 "Extraction of \"%@\" completed" = "Ekstraheer van \"%@\" voltooi";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Ekstrahering is voltooi maar kwarantyn kon nie toegepas word nie.\nHerinstalleer Keka asb. om hierdie probleem op te los";
@@ -231,6 +231,13 @@
 "Review Keka ★★★★★" = "Gradeer Keka met ★★★★★";
 "Update the default password" = "Werk die verstekwagwoord by";
 "Set a default password" = "Stel ’n verstekwagwoord in";
+"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "To enable external volumes access go to your main disk and select the \"Volumes\" folder.";
+"Verifying..." = "Verifying...";
+"Verification of \"%@\" failed" = "Verification of \"%@\" failed";
+"The compressed data seems to be invalid" = "The compressed data seems to be invalid";
+"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Encrypted Apple Archive files are only supported on macOS 12 or newer";
+"The password length should be %i or higher" = "The password length should be %i or higher";
+" (Entire Device)" = " (Entire Device)";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Voorkeure…";
 
