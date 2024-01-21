@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="7Z Archive" xml:space="preserve">
@@ -279,7 +279,7 @@
   </file>
   <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="&quot;%@&quot;" xml:space="preserve">
@@ -817,6 +817,16 @@
         <target>更改无法保存</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="The character %@ is not compatilbe with the %@ format." xml:space="preserve">
+        <source>The character %@ is not compatilbe with the %@ format.</source>
+        <target>字符 %@ 与 %@ 格式不兼容。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The characters %@ are not compatilbe with the %@ format." xml:space="preserve">
+        <source>The characters %@ are not compatilbe with the %@ format.</source>
+        <target>字符 %@ 与 %@ 格式不兼容。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." xml:space="preserve">
         <source>The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread.</source>
         <target>压缩可能需要比可用内存（%@）更多的内存，并且可能无法成功完成。将被限制为一个线程。</target>
@@ -840,6 +850,11 @@
       <trans-unit id="The folder is empty" xml:space="preserve">
         <source>The folder is empty</source>
         <target>文件夹为空</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The password length should be %lld or higher." xml:space="preserve">
+        <source>The password length should be %lld or higher.</source>
+        <target>密码长度应为 %lld 位或更长。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." xml:space="preserve">
@@ -966,7 +981,7 @@
   </file>
   <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -978,7 +993,7 @@
   </file>
   <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -990,7 +1005,7 @@
   </file>
   <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-Hans" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">

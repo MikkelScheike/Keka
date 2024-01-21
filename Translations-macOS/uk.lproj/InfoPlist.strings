@@ -1,0 +1,68 @@
+
+/* Usually leave this one in English */
+"NSHumanReadableCopyright" = "Copyright © 2009-2023 aONe";
+
+/* Access request descriptions */
+"NSDesktopFolderUsageDescription" = "Keka вимагає доступу до робочого столу для роботи з файлами.";
+"NSDocumentsFolderUsageDescription" = "Keka вимагає доступу до документів для роботи з файлами.";
+"NSDownloadsFolderUsageDescription" = "Keka вимагає доступу до завантажень для роботи з файлами.";
+"NSNetworkVolumesUsageDescription" = "Keka вимагає доступу до мережевих дисків для роботи з файлами.";
+"NSRemovableVolumesUsageDescription" = "Keka вимагає доступу до змінних дисків для роботи з файлами.";
+
+/* File types */
+"7Z Archive" = "7Z Архів";
+"LZMA Archive" = "LZMA Архів";
+"LZOP Archive" = "LZOP Архів";
+"LZOP Tarball Archive" = "LZOP Tarball Архів";
+"LZIP Archive" = "LZIP Архів";
+"LZIP Tarball Archive" = "LZIP Tarball Архів";
+"ZIP Archive" = "ZIP Архів";
+"ZIPX Archive" = "ZIPX Архів";
+"XZ Archive" = "XZ Архів";
+"XZ Tarball Archive" = "XZ Tarball Архів";
+"Brotli Archive" = "Brotli Archive";
+"Brotli Tarball Archive" = "Brotli Tarball Archive";
+"Zstandard Archive" = "Zstandard Archive";
+"Zstandard Tarball Archive" = "Zstandard Tarball Archive";
+"RAR Archive" = "RAR Архів";
+"RAR Legacy Archive Volume" = "RAR Архів Старого Формату";
+"Generic Archive Volume" = "Образ архіву";
+"BZIP2 Archive" = "BZIP2 Архів";
+"BZIP2 Tarball Archive" = "BZIP2 Tarball Архів";
+"BZIP Archive" = "BZIP Архів";
+"BZIP Tarball Archive" = "BZIP Tarball Архів";
+"GZIP Archive" = "GZIP Архів";
+"GZIP Tarball Archive" = "GZIP Tarball Архів";
+"TAR Archive" = "TAR Архів";
+"LRZIP Archive" = "LRZIP Архів";
+"LRZIP Tarball Archive" = "LRZIP Tarball Архів";
+"CPIO Archive" = "CPIO Архів";
+"CPGZ Archive" = "CPGZ Архів";
+"PAX Archive" = "PAX Архів";
+"DMG Disk Image" = "DMG Образ диска";
+"ISO Disk Image" = "ISO Образ диска";
+"LHA Archive" = "LHA Архів";
+"Windows EXE File" = "Файл Windows EXE";
+"Windows Cabinet File" = "Файл Windows Cabinet";
+"Windows Installer Package" = "Пакет Windows Installer";
+"WIM Disk Image" = "WIM Образ диска";
+"Comic Book RAR Archive" = "Comic Book RAR Архів";
+"Comic Book ZIP Archive" = "Comic Book ZIP Архів";
+"iOS App" = "iOS Програма";
+"JAR Archive" = "JAR Архів";
+"WAR Archive" = "WAR Архів";
+"Compact Pro Archive" = "Архів Compact Pro";
+"Synology Package Archive" = "Архів Synology Package";
+"Android Application Package" = "Пакет програми для Android";
+"Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
+"APPX Archive" = "APPX Архів";
+"Safari extension" = "Розширення Safari";
+"ACE Archive" = "ACE Архів";
+"XIP Secure Archive" = "XIP Secure Archive";
+"Electronic Book" = "Електронна книга";
+"Apple Archive" = "Apple Архів";
+"Apple Encrypted Archive" = "Зашифрований архів Apple";
+"Squashfs Filesystem Archive" = "Squashfs Filesystem Archive";
+"WordPress All-in-One Backup" = "Повна резервна копія WordPress";
+"InstallShield 3 Archive" = "Архів InstallShield 3";
+"Keka Extraction Package" = "Пакет розпакування Keka";

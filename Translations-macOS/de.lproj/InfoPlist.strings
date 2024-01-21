@@ -1,0 +1,68 @@
+
+/* Usually leave this one in English */
+"NSHumanReadableCopyright" = "Copyright © 2009-2023 aONe";
+
+/* Access request descriptions */
+"NSDesktopFolderUsageDescription" = "Keka benötigt Zugriff auf den Ordner \"Schreibtisch\", um mit seinen Dateien arbeiten zu können.";
+"NSDocumentsFolderUsageDescription" = "Keka benötigt Zugriff auf den Ordner \"Dokumente\", um mit seinen Dateien arbeiten zu können.";
+"NSDownloadsFolderUsageDescription" = "Keka benötigt Zugriff auf den Downloads-Ordner, um mit seinen Dateien arbeiten zu können.";
+"NSNetworkVolumesUsageDescription" = "Keka benötigt Zugriff auf Netzwerk-Volumes, um mit seinen Dateien arbeiten zu können.";
+"NSRemovableVolumesUsageDescription" = "Keka benötigt Zugriff auf Entfernbare Volumes, um mit seinen Dateien arbeiten zu können.";
+
+/* File types */
+"7Z Archive" = "7Z-Archiv";
+"LZMA Archive" = "LZMA-Archiv";
+"LZOP Archive" = "LZOP-Archiv";
+"LZOP Tarball Archive" = "LZOP-komprimiertes TAR-Archiv";
+"LZIP Archive" = "LZIP-Archiv";
+"LZIP Tarball Archive" = "LZIP-komprimiertes TAR-Archiv";
+"ZIP Archive" = "ZIP-Archiv";
+"ZIPX Archive" = "ZIPX-Archiv";
+"XZ Archive" = "XZ-Archiv";
+"XZ Tarball Archive" = "XZ-komprimiertes TAR-Archiv";
+"Brotli Archive" = "Brotli Archiv";
+"Brotli Tarball Archive" = "Brotli-komprimiertes TAR-Archiv";
+"Zstandard Archive" = "Zstandard Archiv";
+"Zstandard Tarball Archive" = "Zstandard-komprimiertes TAR-Archiv";
+"RAR Archive" = "RAR-Archiv";
+"RAR Legacy Archive Volume" = "RAR Legacy Archiv-Volume";
+"Generic Archive Volume" = "Allgemeines Archiv-Volume";
+"BZIP2 Archive" = "BZIP2-Archiv";
+"BZIP2 Tarball Archive" = "BZIP2-komprimiertes TAR-Archiv";
+"BZIP Archive" = "BZIP-Archiv";
+"BZIP Tarball Archive" = "BZIP-komprimiertes TAR-Archiv";
+"GZIP Archive" = "GZIP-Archiv";
+"GZIP Tarball Archive" = "GZIP-komprimiertes TAR-Archiv";
+"TAR Archive" = "TAR-Archiv";
+"LRZIP Archive" = "LRZIP-Archiv";
+"LRZIP Tarball Archive" = "LRZIP-komprimiertes TAR-Archiv";
+"CPIO Archive" = "CPIO-Archiv";
+"CPGZ Archive" = "CPGZ-Archiv";
+"PAX Archive" = "PAX-Archiv";
+"DMG Disk Image" = "DMG-Image";
+"ISO Disk Image" = "ISO-Image";
+"LHA Archive" = "LHA-Archiv";
+"Windows EXE File" = "Windows EXE-Datei";
+"Windows Cabinet File" = "Windows Cabinet-Datei";
+"Windows Installer Package" = "Windows Installer-Paket";
+"WIM Disk Image" = "WIM-Image";
+"Comic Book RAR Archive" = "Comic Book RAR-Archiv";
+"Comic Book ZIP Archive" = "Comic Book ZIP-Archiv";
+"iOS App" = "iOS-App";
+"JAR Archive" = "JAR-Archiv";
+"WAR Archive" = "WAR-Archiv";
+"Compact Pro Archive" = "Compact Pro Archive";
+"Synology Package Archive" = "Synology Package Archive";
+"Android Application Package" = "Android-Anwendung Paketdatei";
+"Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Modul (XPI)";
+"APPX Archive" = "APPX-Archiv";
+"Safari extension" = "Safari-Erweiterung";
+"ACE Archive" = "ACE-Archiv";
+"XIP Secure Archive" = "XIP Secure Archiv";
+"Electronic Book" = "Electronic Book";
+"Apple Archive" = "Apple Archive";
+"Apple Encrypted Archive" = "Verschlüsseltes Apple-Archiv";
+"Squashfs Filesystem Archive" = "Squashfs Filesystem Archive";
+"WordPress All-in-One Backup" = "WordPress All-in-One Backup";
+"InstallShield 3 Archive" = "InstallShield 3 Archiv";
+"Keka Extraction Package" = "Keka Extraktions-Paket";

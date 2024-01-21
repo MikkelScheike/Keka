@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="pt-PT" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="7Z Archive" xml:space="preserve">
@@ -117,6 +117,7 @@
       </trans-unit>
       <trans-unit id="Generic Archive Volume" xml:space="preserve">
         <source>Generic Archive Volume</source>
+        <target>Volume de arquivo comprimido genérico</target>
         <note/>
       </trans-unit>
       <trans-unit id="HA Archive" xml:space="preserve">
@@ -278,17 +279,15 @@
   </file>
   <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="pt-PT" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="&quot;%@&quot;" xml:space="preserve">
         <source>"%@"</source>
-        <target>"%@"</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
-        <target>%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ item" xml:space="preserve">
@@ -554,7 +553,8 @@
       <trans-unit id="Enter the password for the file&#10;&quot;%@&quot;" xml:space="preserve">
         <source>Enter the password for the file
 "%@"</source>
-        <target> Digite a palavra-passe do ficheiro "%@"</target>
+        <target> Digite a palavra-passe do ficheiro
+"%@"</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract" xml:space="preserve">
@@ -614,7 +614,7 @@
       </trans-unit>
       <trans-unit id="If you got here, please get in touch with the developers." xml:space="preserve">
         <source>If you got here, please get in touch with the developers.</source>
-        <target>Se chegou até aqui, por favor contacte os desenvolvedores.</target>
+        <target>Por favor entre em contacto com os desenvolvedores.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Information" xml:space="preserve">
@@ -799,22 +799,32 @@
       </trans-unit>
       <trans-unit id="TRANSLATOR_LINK" xml:space="preserve">
         <source>TRANSLATOR_LINK</source>
-        <target>Link do tradutor </target>
+        <target>https://twitter.com/jram15_ </target>
         <note>The translator link, if any. Can be a mail address or a website.</note>
       </trans-unit>
       <trans-unit id="TRANSLATOR_NAME" xml:space="preserve">
         <source>TRANSLATOR_NAME</source>
-        <target>Nome do tradutor</target>
+        <target>Jose R.A. Mota</target>
         <note>The translator name, if any.</note>
       </trans-unit>
       <trans-unit id="The %@ of space available in the destination might not be enough for compressing the estimated %@." xml:space="preserve">
         <source>The %@ of space available in the destination might not be enough for compressing the estimated %@.</source>
-        <target>The %@ of space available in the destination might not be enough for compressing the estimated %@.</target>
+        <target>O %@ de espaço disponível no destino pode não ser suficiente para compactar o %@ estimado.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The changes could not be saved" xml:space="preserve">
         <source>The changes could not be saved</source>
         <target>As alterções não podem ser guardadas</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The character %@ is not compatilbe with the %@ format." xml:space="preserve">
+        <source>The character %@ is not compatilbe with the %@ format.</source>
+        <target>O caractere %@ não é compatível com o formato %@.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The characters %@ are not compatilbe with the %@ format." xml:space="preserve">
+        <source>The characters %@ are not compatilbe with the %@ format.</source>
+        <target>Os caracteres %@ não são compatíveis com o formato %@.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." xml:space="preserve">
@@ -840,6 +850,11 @@
       <trans-unit id="The folder is empty" xml:space="preserve">
         <source>The folder is empty</source>
         <target>A pasta está vazia</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The password length should be %lld or higher." xml:space="preserve">
+        <source>The password length should be %lld or higher.</source>
+        <target>O comprimento da senha deve ser %lld ou maior.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." xml:space="preserve">
@@ -955,7 +970,7 @@
       </trans-unit>
       <trans-unit id="extraction failed" xml:space="preserve">
         <source>extraction failed</source>
-        <target>extração failhou</target>
+        <target>extração falhou</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="failed" xml:space="preserve">
@@ -967,36 +982,36 @@
   </file>
   <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="pt-PT" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Browse with Keka</source>
-        <target>Browse with Keka</target>
+        <target>Abrir com Keka</target>
         <note>Bundle display name</note>
       </trans-unit>
     </body>
   </file>
   <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="pt-PT" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Compress using Keka</source>
-        <target>Compress using Keka</target>
+        <target>Comprimir com Keka</target>
         <note>Bundle display name</note>
       </trans-unit>
     </body>
   </file>
   <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="pt-PT" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Extract using Keka</source>
-        <target>Extract using Keka</target>
+        <target>Extrair usando Keka</target>
         <note>Bundle display name</note>
       </trans-unit>
     </body>

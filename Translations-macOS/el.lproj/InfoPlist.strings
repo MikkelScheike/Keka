@@ -1,0 +1,68 @@
+
+/* Usually leave this one in English */
+"NSHumanReadableCopyright" = "Πνευματική ιδιοκτησία © 2009-2023 aONe";
+
+/* Access request descriptions */
+"NSDesktopFolderUsageDescription" = "Το Keka απαιτεί πρόσβαση της Επιφ. Εργασίας για την προσπέλαση των αρχείων του.";
+"NSDocumentsFolderUsageDescription" = "Το Keka απαιτεί πρόσβαση στο φάκελο Documents για την προσπέλαση των αρχείων του.";
+"NSDownloadsFolderUsageDescription" = "Το Keka απαιτεί πρόσβαση στο φάκελο Downloads για την προσπέλαση των αρχείων του.";
+"NSNetworkVolumesUsageDescription" = "Το Keka απαιτεί πρόσβαση στoυς τόμους Δικτύου για την προσπέλαση των αρχείων του.";
+"NSRemovableVolumesUsageDescription" = "Το Keka απαιτεί πρόσβαση στους αφαιρούμενους τόμους για την προσπέλαση των αρχείων του.";
+
+/* File types */
+"7Z Archive" = "Αρχείο 7Z";
+"LZMA Archive" = "Αρχείο LZMA";
+"LZOP Archive" = "Αρχείο LZOP";
+"LZOP Tarball Archive" = "Αρχείο LZOP Tarball";
+"LZIP Archive" = "Αρχείο LZIP";
+"LZIP Tarball Archive" = "Αρχείο LZIP Tarball";
+"ZIP Archive" = "Αρχείο ZIP";
+"ZIPX Archive" = "Αρχείο ZIPX";
+"XZ Archive" = "Αρχείο XZ";
+"XZ Tarball Archive" = "Αρχείο XZ Tarball";
+"Brotli Archive" = "Αρχείο Brotli";
+"Brotli Tarball Archive" = "Αρχείο Brotli Tarball";
+"Zstandard Archive" = "Αρχείο Zstandard";
+"Zstandard Tarball Archive" = "Αρχείο Zstandard Tarball";
+"RAR Archive" = "Αρχείο RAR";
+"RAR Legacy Archive Volume" = "RAR Legacy Τόμος Αρχείου";
+"Generic Archive Volume" = "Τόμος Γενικού Αρχείου";
+"BZIP2 Archive" = "Αρχείο BZIP2";
+"BZIP2 Tarball Archive" = "Αρχείο BZIP2 Tarball";
+"BZIP Archive" = "Αρχείο BZIP";
+"BZIP Tarball Archive" = "Αρχείο BZIP";
+"GZIP Archive" = "Αρχείο GZIP";
+"GZIP Tarball Archive" = "Αρχείο GZIP Tarball";
+"TAR Archive" = "Αρχείο TAR";
+"LRZIP Archive" = "Αρχείο LRZIP";
+"LRZIP Tarball Archive" = "Αρχείο LRZIP Tarball";
+"CPIO Archive" = "Αρχείο CPIO";
+"CPGZ Archive" = "Αρχείο CPGZ";
+"PAX Archive" = "Αρχείο PAX";
+"DMG Disk Image" = "Τόμος δίσκου DMG";
+"ISO Disk Image" = "Τόμος δίσκου ISO";
+"LHA Archive" = "Αρχείο LHA";
+"Windows EXE File" = "Αρχείο Windows EXE";
+"Windows Cabinet File" = "Αρχείο Windows Cabinet";
+"Windows Installer Package" = "Πακέτο Εγκαταστάτη Windows";
+"WIM Disk Image" = "WIM Τόμος δίσκου";
+"Comic Book RAR Archive" = "Αρχείο Comic Book RAR";
+"Comic Book ZIP Archive" = "Αρχείο Comic Book ZIP";
+"iOS App" = "Εφαρμογή iOS";
+"JAR Archive" = "Αρχείο JAR";
+"WAR Archive" = "Αρχείο WAR";
+"Compact Pro Archive" = "Aρχείο Compact Pro";
+"Synology Package Archive" = "Αρχείο Synology Package";
+"Android Application Package" = "Πακέτο εφαρμογής Android";
+"Cross-Platform Installer Module (XPI)" = "Τμήμα Εγκαταστάτη Cross-Platform (XPI) module";
+"APPX Archive" = "Αρχείο APPX";
+"Safari extension" = "Πρόσθετο Safari";
+"ACE Archive" = "Αρχείο ACE";
+"XIP Secure Archive" = "Αρχείο XIP Secure";
+"Electronic Book" = "Ηλ. Βιβλίο (ebook)";
+"Apple Archive" = "Aρχείο Apple";
+"Apple Encrypted Archive" = "Κρυπτογραφημένη αρχειοθήκη Apple";
+"Squashfs Filesystem Archive" = "Squashfs Filesystem Archive";
+"WordPress All-in-One Backup" = "Εφεδρικό αντίγραφο WordPress All-in-One";
+"InstallShield 3 Archive" = "Aρχείο InstallShield 3";
+"Keka Extraction Package" = "Πακέτο Αποσυμπίεσης του Keka";
