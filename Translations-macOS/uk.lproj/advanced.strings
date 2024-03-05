@@ -74,6 +74,9 @@
 /* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "2426"; */
 "2426.title" = "Ще раз:";
 
+/* Class = "NSButtonCell"; title = "Self-extracting archive for Windows"; ObjectID = "Itb-5A-JW7"; */
+"Itb-5A-JW7.title" = "Self-extracting archive for Windows";
+
 /* Class = "NSButtonCell"; title = "Encrypt filenames"; ObjectID = "L2I-Q8-zqc"; */
 "L2I-Q8-zqc.title" = "Шифрувати імена файлів";
 
