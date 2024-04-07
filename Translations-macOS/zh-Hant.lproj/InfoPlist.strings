@@ -1,6 +1,6 @@
 
 /* Usually leave this one in English */
-"NSHumanReadableCopyright" = "Copyright © 2009-2023 aONe";
+"NSHumanReadableCopyright" = "Copyright © 2009-2024 aONe";
 
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "Keka 需要「桌面」的取用權限，方能處理此處的檔案。";
@@ -48,7 +48,7 @@
 "WIM Disk Image" = "WIM 磁碟映像檔";
 "Comic Book RAR Archive" = "Comic Book RAR 封存檔";
 "Comic Book ZIP Archive" = "Comic Book ZIP 封存檔";
-"Commodore Amiga MOD Archive" = "Commodore Amiga MOD Archive";
+"Commodore Amiga MOD Archive" = "Commodore Amiga MOD 封存檔";
 "iOS App" = "iOS 應用程式";
 "JAR Archive" = "JAR 封存檔";
 "WAR Archive" = "WAR 封存檔";
