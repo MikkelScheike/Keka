@@ -164,6 +164,9 @@
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
 "DAr-Td-s5W.title" = "解壓縮較不吃效能，即便使用多執行緒，您都只需把限制設定成 2 或 3。注意：目的地磁碟可能會需要承擔這些壓力。";
 
+/* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
+"DCA-p1-1uq.title" = "使用可以調整大小的視窗";
+
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "正在執行動作而要結束前先詢問";
 
@@ -178,6 +181,9 @@
 
 /* Class = "NSButtonCell"; title = "Use custom name when compressing multiple files"; ObjectID = "Ei5-Ya-HGI"; */
 "Ei5-Ya-HGI.title" = "壓縮多個檔案時，使用自訂名稱";
+
+/* Class = "NSButtonCell"; title = "Activate Keka when starting a new operation"; ObjectID = "FMT-Gs-iEi"; */
+"FMT-Gs-iEi.title" = "開始新動作時讓 Keka 的視窗維持在前景";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
 "G1T-Qd-OZi.title" = "作業優先級（QoS）：";
@@ -226,6 +232,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
 "Rgr-FP-Kua.title" = "預設密碼：";
+
+/* Class = "NSButtonCell"; title = "Silently ignore extra trailing data"; ObjectID = "Rwo-pm-Y6t"; */
+"Rwo-pm-Y6t.title" = "不提示，直接忽略多餘的尾部資料";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "啟用通知中心整合";
@@ -336,7 +345,7 @@
 "s9u-2a-b8X.title" = "在動作中顯示圖示";
 
 /* Class = "NSMenuItem"; title = "Always extract compatible formats"; ObjectID = "sD5-uM-Wpa"; */
-"sD5-uM-Wpa.title" = "Always extract compatible formats";
+"sD5-uM-Wpa.title" = "總是解壓縮相容的格式";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
 "sgV-AD-k4Q.title" = "啟用外部卷宗的取用權限";

@@ -164,6 +164,9 @@
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
 "DAr-Td-s5W.title" = "抽出の方が消費電力が少ないので、複数のスレッドを使用していても、制限を2つや3つにするのは簡単です。ただしターゲットディスクには影響があります。";
 
+/* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
+"DCA-p1-1uq.title" = "Use resizable windows";
+
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "操作を終了する前に聞く";
 
@@ -178,6 +181,9 @@
 
 /* Class = "NSButtonCell"; title = "Use custom name when compressing multiple files"; ObjectID = "Ei5-Ya-HGI"; */
 "Ei5-Ya-HGI.title" = "複数のファイルを圧縮する際にカスタム名を使用する";
+
+/* Class = "NSButtonCell"; title = "Activate Keka when starting a new operation"; ObjectID = "FMT-Gs-iEi"; */
+"FMT-Gs-iEi.title" = "新規オペレーション開始時に Keka をアクティブにする";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
 "G1T-Qd-OZi.title" = "タスクの優先度 (QoS):";
@@ -222,10 +228,13 @@
 "NwI-O4-9NI.title" = "Mac のリソースフォークを含めない (例: .DS_Store)";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "デスクトップまたはダウンロードフォルダなど、すべてのユーザーファイルでKekaを使用できるように、ホームアクセスを有効にします。.";
+"PD2-iW-BGK.title" = "デスクトップまたはダウンロードフォルダなど、すべてのユーザーファイルでKekaを使用できるように、ホームアクセスを有効にします。";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
 "Rgr-FP-Kua.title" = "デフォルトのパスワード:";
+
+/* Class = "NSButtonCell"; title = "Silently ignore extra trailing data"; ObjectID = "Rwo-pm-Y6t"; */
+"Rwo-pm-Y6t.title" = "Silently ignore extra trailing data";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "通知センターの統合を有効にする";

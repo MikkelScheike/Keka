@@ -1,6 +1,3 @@
-/* Keka Folder */
-"%@ Folder" = "Cartella di %@";
-
 /* No comment provided by engineer. */
 "%@ item" = "%@ elemento";
 
@@ -20,7 +17,58 @@
 "%lld items" = "%lld elementi";
 
 /* No comment provided by engineer. */
+"%lld seconds" = "%lld secondi";
+
+/* No comment provided by engineer. */
+"%lld:%@ minutes" = "%lld:%@ minuti";
+
+/* No comment provided by engineer. */
+"%lld:%@:%@ hours" = "%lld:%@:%@ ore";
+
+/* No comment provided by engineer. */
 "About" = "Informazioni";
+
+/* No comment provided by engineer. */
+"About %lld days" = "Circa %lld giorni";
+
+/* No comment provided by engineer. */
+"About %lld hours" = "Circa %lld ore";
+
+/* No comment provided by engineer. */
+"About %lld minutes" = "Circa %lld minuti";
+
+/* No comment provided by engineer. */
+"About %lld months" = "Circa %lld mesi";
+
+/* No comment provided by engineer. */
+"About %lld seconds" = "Circa %lld secondi";
+
+/* No comment provided by engineer. */
+"About %lld weeks" = "Circa %lld settimane";
+
+/* No comment provided by engineer. */
+"About %lld years" = "Circa %lld anni";
+
+/* No comment provided by engineer. */
+"About a day" = "Circa un giorno";
+
+/* No comment provided by engineer. */
+"About a minute" = "Circa un minuto";
+
+/* No comment provided by engineer. */
+"About a month" = "Circa un mese";
+
+/* No comment provided by engineer. */
+"About a second" = "Circa un secondo";
+
+/* No comment provided by engineer. */
+"About a week" = "Circa una settimana";
+
+/* No comment provided by engineer. */
+"About a year" = "Circa un anno";
+
+/* No comment provided by engineer. */
+"About an hour" = "Circa un'ora";
 
 /* No comment provided by engineer. */
 "Actions" = "Azioni";
@@ -164,7 +212,7 @@
 "Created" = "Creato";
 
 /* No comment provided by engineer. */
-"Custom..." = "Personalizzato...";
+"Custom…" = "Personalizzato…";
 
 /* No comment provided by engineer. */
 "Date" = "Data";
@@ -293,6 +341,9 @@
 "Files and Folders" = "File e cartelle";
 
 /* No comment provided by engineer. */
+"Finishing" = "Finalizzazione";
+
+/* No comment provided by engineer. */
 "Folder drop is only supported on iOS 16 or newer" = "Il rilascio di cartelle è supportato solo su iOS 16 o versioni successive";
 
 /* No comment provided by engineer. */
@@ -350,6 +401,12 @@
 "Modified" = "Modificato";
 
 /* No comment provided by engineer. */
+"Move compressed file(s) to Trash after extraction" = "Sposta i file compressi nel Cestino dopo l'estrazione";
+
+/* No comment provided by engineer. */
+"Move original file(s) to Trash after compression" = "Sposta i file originali nel Cestino dopo la compressione";
+
+/* No comment provided by engineer. */
 "Name" = "Nome";
 
 /* No comment provided by engineer. */
@@ -364,7 +421,7 @@
 /* No comment provided by engineer. */
 "No files to extract" = "Nessun file da estrarre";
 
-/* No comment provided by engineer. */
+/* Password field empty placeholder */
 "None" = "Nessuno";
 
 /* No comment provided by engineer. */
@@ -383,7 +440,7 @@
 "Open Keka" = "Apri Keka";
 
 /* No comment provided by engineer. */
-"Open..." = "Apri...";
+"Open…" = "Apri…";
 
 /* No comment provided by engineer. */
 "Order" = "Ordina";
@@ -411,6 +468,9 @@
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Seleziona la codifica per:";
+
+/* No comment provided by engineer. */
+"Preparing" = "Preparazione";
 
 /* No comment provided by engineer. */
 "Preview" = "Anteprima";
@@ -461,7 +521,7 @@
 "Share" = "Condividi";
 
 /* No comment provided by engineer. */
-"Share..." = "Condividi...";
+"Share…" = "Condividi…";
 
 /* No comment provided by engineer. */
 "Show Advanced Settings" = "Mostra impostazioni avanzate";
@@ -584,7 +644,25 @@
 "Use UTF-8 Encoding if Available" = "Utilizza codifica UTF-8 se disponibile";
 
 /* No comment provided by engineer. */
+"verification failed" = "verifica non riuscita";
+
+/* No comment provided by engineer. */
 "Verify compression integrity" = "Verifica integrità della compressione";
+
+/* Verification, operation description. */
+"VERIFY_OPERATION" = "Verifica";
+
+/* Verifying, operation running. */
+"VERIFY_RUNNING" = "Verifico";
+
+/* Verifying, tasks section title. */
+"VERIFY_SECTION_TITLE" = "Verifico";
+
+/* No comment provided by engineer. */
+"verifyed" = "verificato";
+
+/* No comment provided by engineer. */
+"Verify…" = "Verifica…";
 
 /* No comment provided by engineer. */
 "Volume Size" = "Dimensioni del volume";

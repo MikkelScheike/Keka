@@ -1,6 +1,6 @@
 
 /* Usually leave this one in English */
-"NSHumanReadableCopyright" = "Copyright © 2009-2024 aONe";
+"NSHumanReadableCopyright" = "Copyright © 2009-2025 aONe";
 
 /* Spotlight keywords */
 "MDItemKeywords" = "Compression, Décompression, Extraction, Archiveur, Désarchiveur, Expansion, Chiffrement, Déchiffrement, Archives, Fichiers";
@@ -77,3 +77,4 @@
 "Delta Controller Skin" = "Skin de contrôleur Delta";
 "Zipped Web Archive Collection" = "Collection d'archive Web Zippée";
 "Keka Extraction Package" = "Paquet d'extraction Keka";
+"Data" = "Data";

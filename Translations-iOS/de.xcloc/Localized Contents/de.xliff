@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Keka/en.lproj/AppShortcuts.strings" datatype="plaintext" source-language="en" target-language="de">
+  <file original="Keka/en.lproj/AppShortcuts.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="Compress Files with ${applicationName}" xml:space="preserve">
         <source>Compress Files with ${applicationName}</source>
+        <target>Dateien mit ${applicationName} komprimieren</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract Files with ${applicationName}" xml:space="preserve">
         <source>Extract Files with ${applicationName}</source>
+        <target>Dateien mit ${applicationName} extrahieren</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
   </file>
   <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="7Z Archive" xml:space="preserve">
@@ -298,43 +300,52 @@
   </file>
   <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
-      <trans-unit id="&quot;%@&quot;" xml:space="preserve">
-        <source>"%@"</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="%@ Folder" xml:space="preserve">
-        <source>%@ Folder</source>
-        <note>Keka Folder</note>
-      </trans-unit>
       <trans-unit id="%@ item" xml:space="preserve">
         <source>%@ item</source>
-        <target>%@ Artikel</target>
+        <target>%@ Element</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ items" xml:space="preserve">
         <source>%@ items</source>
-        <target>%@ Artikel</target>
+        <target>%@ Element</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ of &quot;%@&quot; failed" xml:space="preserve">
         <source>%@ of "%@" failed</source>
+        <target>%@ von "%@" fehlgeschlagen</target>
         <note>_OPERATION_ of "_FILENAME_" failed</note>
       </trans-unit>
       <trans-unit id="%@ of %@ item" xml:space="preserve">
         <source>%@ of %@ item</source>
-        <target>%@ von %@ Artikel</target>
+        <target>%@ von %@ Element</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ of %@ items" xml:space="preserve">
         <source>%@ of %@ items</source>
-        <target>%@ von %@ Artikel</target>
+        <target>%@ von %@ Artikeln</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lld items" xml:space="preserve">
         <source>%lld items</source>
+        <target>%lld Element</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld seconds" xml:space="preserve">
+        <source>%lld seconds</source>
+        <target>%lld Sekunden</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld:%@ minutes" xml:space="preserve">
+        <source>%lld:%@ minutes</source>
+        <target>%lld:%@ Minuten</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld:%@:%@ hours" xml:space="preserve">
+        <source>%lld:%@:%@ hours</source>
+        <target>%lld:%@:%@ Stunden</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
@@ -347,6 +358,76 @@
         <target>Über</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="About %lld days" xml:space="preserve">
+        <source>About %lld days</source>
+        <target>Etwa %lld Tage</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld hours" xml:space="preserve">
+        <source>About %lld hours</source>
+        <target>Etwa %lld Stunden</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld minutes" xml:space="preserve">
+        <source>About %lld minutes</source>
+        <target>Etwa %lld Minuten</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld months" xml:space="preserve">
+        <source>About %lld months</source>
+        <target>Etwa %lld Monate</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld seconds" xml:space="preserve">
+        <source>About %lld seconds</source>
+        <target>Etwa %lld Sekunden</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld weeks" xml:space="preserve">
+        <source>About %lld weeks</source>
+        <target>Etwa %lld Wochen</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld years" xml:space="preserve">
+        <source>About %lld years</source>
+        <target>Etwa %lld Jahre</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a day" xml:space="preserve">
+        <source>About a day</source>
+        <target>Etwa ein Tag</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a minute" xml:space="preserve">
+        <source>About a minute</source>
+        <target>Etwa eine Minute</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a month" xml:space="preserve">
+        <source>About a month</source>
+        <target>Etwa ein Monat</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a second" xml:space="preserve">
+        <source>About a second</source>
+        <target>Etwa eine Sekunde</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a week" xml:space="preserve">
+        <source>About a week</source>
+        <target>Etwa eine Woche</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a year" xml:space="preserve">
+        <source>About a year</source>
+        <target>Etwa ein Jahr</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About an hour" xml:space="preserve">
+        <source>About an hour</source>
+        <target>Etwa eine Stunde</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Actions" xml:space="preserve">
         <source>Actions</source>
         <target>Aktionen</target>
@@ -354,6 +435,7 @@
       </trans-unit>
       <trans-unit id="Actions to do with the current browsed file" xml:space="preserve">
         <source>Actions to do with the current browsed file</source>
+        <target>Aktionen mit der aktuell durchsuchten Datei</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add a File" xml:space="preserve">
@@ -363,31 +445,37 @@
       </trans-unit>
       <trans-unit id="Add a Folder" xml:space="preserve">
         <source>Add a Folder</source>
-        <target>Ordner hinzufügen</target>
+        <target>Einen Ordner hinzufügen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add a Photo or Video" xml:space="preserve">
         <source>Add a Photo or Video</source>
+        <target>Ein Foto oder Video hinzufügen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add files and folders to a compression list" xml:space="preserve">
         <source>Add files and folders to a compression list</source>
+        <target>Dateien und Ordner zur Komprimierungsliste hinzufügen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add some contents using the %@ button or the %@ button in the toolbar." xml:space="preserve">
         <source>Add some contents using the %@ button or the %@ button in the toolbar.</source>
+        <target>Fügen Sie Inhalte mit der %@-Taste oder der %@-Taste in der Symbolleiste hinzu.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." xml:space="preserve">
         <source>Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar.</source>
+        <target>Fügen Sie Inhalte mit der %@-Taste oder den Tasten %@, %@ oder %@ in der Symbolleiste hinzu.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add some contents using the %@ button." xml:space="preserve">
         <source>Add some contents using the %@ button.</source>
+        <target>Fügen Sie Inhalte mit der %@-Taste hinzu.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Advanced Settings" xml:space="preserve">
         <source>Advanced Settings</source>
+        <target>Erweiterte Einstellungen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Allocated size" xml:space="preserve">
@@ -397,6 +485,7 @@
       </trans-unit>
       <trans-unit id="Archive items separately" xml:space="preserve">
         <source>Archive items separately</source>
+        <target>Elemente separat archivieren</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ask" xml:space="preserve">
@@ -426,6 +515,7 @@
       </trans-unit>
       <trans-unit id="Bytes" xml:space="preserve">
         <source>Bytes</source>
+        <target>Bytes</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="COMPRESSION_OPERATION" xml:space="preserve">
@@ -455,6 +545,7 @@
       </trans-unit>
       <trans-unit id="Cancelled" xml:space="preserve">
         <source>Cancelled</source>
+        <target>Abgebrochen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Choose" xml:space="preserve">
@@ -464,7 +555,7 @@
       </trans-unit>
       <trans-unit id="Clear Cache" xml:space="preserve">
         <source>Clear Cache</source>
-        <target>Cache leeren</target>
+        <target>Cache löschen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Clear Cache Contents" xml:space="preserve">
@@ -489,14 +580,17 @@
       </trans-unit>
       <trans-unit id="Compress Files with Keka" xml:space="preserve">
         <source>Compress Files with Keka</source>
+        <target>Dateien mit Keka Komprimierung</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compress all the items in the compression list" xml:space="preserve">
         <source>Compress all the items in the compression list</source>
+        <target>Alle Elemente in der Komprimierungsliste Komprimierung</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compress some files with Keka." xml:space="preserve">
         <source>Compress some files with Keka.</source>
+        <target>Einige Dateien mit Keka Komprimierung.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compressed size" xml:space="preserve">
@@ -526,6 +620,7 @@
       </trans-unit>
       <trans-unit id="Contents: %lld, Size: %@" xml:space="preserve">
         <source>Contents: %lld, Size: %@</source>
+        <target>Inhalte: %lld, Größe: %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Created" xml:space="preserve">
@@ -533,9 +628,9 @@
         <target>Erstellt</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Custom..." xml:space="preserve">
-        <source>Custom...</source>
-        <target>Benutzerdefiniert...</target>
+      <trans-unit id="Custom…" xml:space="preserve">
+        <source>Custom…</source>
+        <target>Benutzerdefiniert…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
@@ -575,6 +670,7 @@
       </trans-unit>
       <trans-unit id="Delete files(s) after compression" xml:space="preserve">
         <source>Delete files(s) after compression</source>
+        <target>Dateien nach der Komprimierung löschen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Destination" xml:space="preserve">
@@ -599,15 +695,17 @@
       </trans-unit>
       <trans-unit id="Documents" xml:space="preserve">
         <source>Documents</source>
+        <target>Dokumente</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
-        <target>Fertig</target>
+        <target>Abgeschlossen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Downloads" xml:space="preserve">
         <source>Downloads</source>
+        <target>Downloads</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="EXTRACTION_OPERATION" xml:space="preserve">
@@ -627,7 +725,7 @@
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
-        <target>Bearbeiten</target>
+        <target>Editieren</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Encrypt Filenames" xml:space="preserve">
@@ -649,6 +747,7 @@
       </trans-unit>
       <trans-unit id="Exclude Mac resource forks" xml:space="preserve">
         <source>Exclude Mac resource forks</source>
+        <target>Mac-Resource-Forks ausschließen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract" xml:space="preserve">
@@ -658,15 +757,17 @@
       </trans-unit>
       <trans-unit id="Extract Files with Keka" xml:space="preserve">
         <source>Extract Files with Keka</source>
+        <target>Dateien mit Keka Extraktion</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract some files with Keka." xml:space="preserve">
         <source>Extract some files with Keka.</source>
+        <target>Einige Dateien mit Keka Extraktion.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract the file" xml:space="preserve">
         <source>Extract the file</source>
-        <target>Die Datei extrahieren</target>
+        <target>Die Datei Extraktion</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extraction" xml:space="preserve">
@@ -691,6 +792,7 @@
       </trans-unit>
       <trans-unit id="File for Keka" xml:space="preserve">
         <source>File for Keka</source>
+        <target>Datei für Keka</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="File not informed properly, try again." xml:space="preserve">
@@ -700,14 +802,22 @@
       </trans-unit>
       <trans-unit id="Files" xml:space="preserve">
         <source>Files</source>
+        <target>Dateien</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Files and Folders" xml:space="preserve">
         <source>Files and Folders</source>
+        <target>Dateien und Ordner</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Finishing" xml:space="preserve">
+        <source>Finishing</source>
+        <target>Abschließen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Folder drop is only supported on iOS 16 or newer" xml:space="preserve">
         <source>Folder drop is only supported on iOS 16 or newer</source>
+        <target>Ordner-Drop wird nur auf iOS 16 oder neuer unterstützt</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Format" xml:space="preserve">
@@ -727,10 +837,12 @@
       </trans-unit>
       <trans-unit id="Gigabyte" xml:space="preserve">
         <source>Gigabyte</source>
+        <target>Gigabyte</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Give Access" xml:space="preserve">
         <source>Give Access</source>
+        <target>Zugriff gewähren</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Hide Password by Default" xml:space="preserve">
@@ -760,6 +872,7 @@
       </trans-unit>
       <trans-unit id="Kilobytes" xml:space="preserve">
         <source>Kilobytes</source>
+        <target>Kilobytes</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Kind" xml:space="preserve">
@@ -774,11 +887,12 @@
       </trans-unit>
       <trans-unit id="Level" xml:space="preserve">
         <source>Level</source>
+        <target>Level</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Loading" xml:space="preserve">
         <source>Loading</source>
-        <target>Laden</target>
+        <target>Wird geladen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Made with" xml:space="preserve">
@@ -788,11 +902,22 @@
       </trans-unit>
       <trans-unit id="Megabytes" xml:space="preserve">
         <source>Megabytes</source>
+        <target>Megabytes</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Modified" xml:space="preserve">
         <source>Modified</source>
         <target>Geändert</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Move compressed file(s) to Trash after extraction" xml:space="preserve">
+        <source>Move compressed file(s) to Trash after extraction</source>
+        <target>Komprimierte Dateien nach der Extraktion in den Papierkorb verschieben</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Move original file(s) to Trash after compression" xml:space="preserve">
+        <source>Move original file(s) to Trash after compression</source>
+        <target>Ursprüngliche Dateien nach der Komprimierung in den Papierkorb verschieben</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
@@ -802,10 +927,12 @@
       </trans-unit>
       <trans-unit id="New Compression" xml:space="preserve">
         <source>New Compression</source>
+        <target>Neue Komprimierung</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No archive selected" xml:space="preserve">
         <source>No archive selected</source>
+        <target>Kein Archiv ausgewählt</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No contents" xml:space="preserve">
@@ -821,7 +948,7 @@
       <trans-unit id="None" xml:space="preserve">
         <source>None</source>
         <target>Keine</target>
-        <note>No comment provided by engineer.</note>
+        <note>Password field empty placeholder</note>
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
         <source>Normal</source>
@@ -845,14 +972,17 @@
       </trans-unit>
       <trans-unit id="Open Keka" xml:space="preserve">
         <source>Open Keka</source>
+        <target>Keka öffnen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Open..." xml:space="preserve">
-        <source>Open...</source>
+      <trans-unit id="Open…" xml:space="preserve">
+        <source>Open…</source>
+        <target>Öffnen…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Order" xml:space="preserve">
         <source>Order</source>
+        <target>Reihenfolge</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Password" xml:space="preserve">
@@ -862,23 +992,27 @@
       </trans-unit>
       <trans-unit id="Password Protected" xml:space="preserve">
         <source>Password Protected</source>
+        <target>Passwortgeschützt</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Password for &quot;%@&quot;" xml:space="preserve">
         <source>Password for "%@"</source>
+        <target>Passwort für "%@"</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Password needed" xml:space="preserve">
         <source>Password needed</source>
-        <target>Passwort erforderlich</target>
+        <target>Passwort benötigt</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pause" xml:space="preserve">
         <source>Pause</source>
+        <target>Pause</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Petabytes" xml:space="preserve">
         <source>Petabytes</source>
+        <target>Petabytes</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please enter the password for:" xml:space="preserve">
@@ -889,6 +1023,11 @@
       <trans-unit id="Please select the encoding for:" xml:space="preserve">
         <source>Please select the encoding for:</source>
         <target>Bitte wählen Sie die Codierung für:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Preparing" xml:space="preserve">
+        <source>Preparing</source>
+        <target>Vorbereiten</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preview" xml:space="preserve">
@@ -908,10 +1047,12 @@
       </trans-unit>
       <trans-unit id="Remove" xml:space="preserve">
         <source>Remove</source>
+        <target>Entfernen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remove All Items" xml:space="preserve">
         <source>Remove All Items</source>
+        <target>Alle Elemente entfernen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remove from cache" xml:space="preserve">
@@ -921,6 +1062,7 @@
       </trans-unit>
       <trans-unit id="Remove the selected items from the compression list" xml:space="preserve">
         <source>Remove the selected items from the compression list</source>
+        <target>Die ausgewählten Elemente aus der Komprimierungsliste entfernen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reset" xml:space="preserve">
@@ -935,6 +1077,7 @@
       </trans-unit>
       <trans-unit id="Resume" xml:space="preserve">
         <source>Resume</source>
+        <target>Fortsetzen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Review" xml:space="preserve">
@@ -944,6 +1087,7 @@
       </trans-unit>
       <trans-unit id="Run asynchronously" xml:space="preserve">
         <source>Run asynchronously</source>
+        <target>Asynchron ausführen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
@@ -953,6 +1097,7 @@
       </trans-unit>
       <trans-unit id="Select some files and folders for Keka." xml:space="preserve">
         <source>Select some files and folders for Keka.</source>
+        <target>Wählen Sie einige Dateien und Ordner für Keka aus.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
@@ -965,33 +1110,39 @@
         <target>Teilen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Share..." xml:space="preserve">
-        <source>Share...</source>
+      <trans-unit id="Share…" xml:space="preserve">
+        <source>Share…</source>
+        <target>Teilen…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Advanced Settings" xml:space="preserve">
         <source>Show Advanced Settings</source>
+        <target>Erweiterte Einstellungen anzeigen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Info" xml:space="preserve">
         <source>Show Info</source>
+        <target>Informationen anzeigen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Less" xml:space="preserve">
         <source>Show Less</source>
+        <target>Weniger anzeigen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show or hide additional advanced settings" xml:space="preserve">
         <source>Show or hide additional advanced settings</source>
+        <target>Zusätzliche erweiterte Einstellungen anzeigen oder ausblenden</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show or hide additional information about the selected item" xml:space="preserve">
         <source>Show or hide additional information about the selected item</source>
+        <target>Zusätzliche Informationen über das ausgewählte Element anzeigen oder ausblenden</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Size" xml:space="preserve">
         <source>Size</source>
-        <target>Size</target>
+        <target>Größe</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Slow" xml:space="preserve">
@@ -1016,21 +1167,22 @@
       </trans-unit>
       <trans-unit id="TRANSLATOR_LINK" xml:space="preserve">
         <source>TRANSLATOR_LINK</source>
-        <target/>
+        <target>TRANSLATOR_LINK</target>
         <note>The translator link, if any. Can be a mail address or a website.</note>
       </trans-unit>
       <trans-unit id="TRANSLATOR_NAME" xml:space="preserve">
         <source>TRANSLATOR_NAME</source>
-        <target/>
+        <target>TRANSLATOR_NAME</target>
         <note>The translator name, if any.</note>
       </trans-unit>
       <trans-unit id="Terabytes" xml:space="preserve">
         <source>Terabytes</source>
+        <target>Terabytes</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The %@ of space available in the destination might not be enough for compressing the estimated %@." xml:space="preserve">
         <source>The %@ of space available in the destination might not be enough for compressing the estimated %@.</source>
-        <target>Der verfügbare Platz von %@ im Ziel könnte möglicherweise nicht ausreichen, um die geschätzten %@ zu komprimieren.</target>
+        <target>Der verfügbare Platz von %@ im Ziel könnte möglicherweise nicht ausreichen, um die geschätzten %@ zu Komprimierung.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The changes could not be saved" xml:space="preserve">
@@ -1086,6 +1238,8 @@
       <trans-unit id="This volume file needs additional files access to be opened.&#10;You can give access to the rest of the files or the parent folder." xml:space="preserve">
         <source>This volume file needs additional files access to be opened.
 You can give access to the rest of the files or the parent folder.</source>
+        <target>Diese Volumendatei benötigt zusätzlichen Dateizugriff, um geöffnet zu werden.
+Sie können den Zugriff auf die restlichen Dateien oder den übergeordneten Ordner gewähren.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To extract" xml:space="preserve">
@@ -1095,6 +1249,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." xml:space="preserve">
         <source>To prevent a timeout on large operation, enable this setting. The result will always be true if enabled.</source>
+        <target>Um einen Timeout bei großen Operationen zu verhindern, aktivieren Sie diese Einstellung. Das Ergebnis wird immer wahr sein, wenn diese Einstellung aktiviert ist.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total size" xml:space="preserve">
@@ -1114,6 +1269,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="URL Encoded" xml:space="preserve">
         <source>URL Encoded</source>
+        <target>URL Encodiert</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to apply the app icon" xml:space="preserve">
@@ -1128,6 +1284,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Unable to delete the file" xml:space="preserve">
         <source>Unable to delete the file</source>
+        <target>Die Datei kann nicht gelöscht werden</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to determine the available space." xml:space="preserve">
@@ -1160,8 +1317,29 @@ You can give access to the rest of the files or the parent folder.</source>
         <target>Verwenden Sie spezielle Farben für bekannte Formate</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="VERIFY_OPERATION" xml:space="preserve">
+        <source>Verification</source>
+        <target>Überprüfung</target>
+        <note>Verification, operation description.</note>
+      </trans-unit>
+      <trans-unit id="VERIFY_RUNNING" xml:space="preserve">
+        <source>Verifying</source>
+        <target>Wird überprüft</target>
+        <note>Verifying, operation running.</note>
+      </trans-unit>
+      <trans-unit id="VERIFY_SECTION_TITLE" xml:space="preserve">
+        <source>Verifying</source>
+        <target>Überprüfung</target>
+        <note>Verifying, tasks section title.</note>
+      </trans-unit>
       <trans-unit id="Verify compression integrity" xml:space="preserve">
         <source>Verify compression integrity</source>
+        <target>Überprüfen Sie die Integrität der Kompression</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Verify…" xml:space="preserve">
+        <source>Verify…</source>
+        <target>Überprüfen…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Volume Size" xml:space="preserve">
@@ -1171,6 +1349,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Volume Unit" xml:space="preserve">
         <source>Volume Unit</source>
+        <target>Volumeneinheit</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Welcome" xml:space="preserve">
@@ -1190,15 +1369,17 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="archive" xml:space="preserve">
         <source>archive</source>
+        <target>Archiv</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="by %@" xml:space="preserve">
         <source>by %@</source>
-        <target>by %@</target>
+        <target>von %@</target>
         <note>"by aone" part from "Made with love by aone".</note>
       </trans-unit>
       <trans-unit id="compress" xml:space="preserve">
         <source>compress</source>
+        <target>Komprimierung</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="compressed" xml:space="preserve">
@@ -1208,6 +1389,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="compression" xml:space="preserve">
         <source>compression</source>
+        <target>Komprimierung</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="compression failed" xml:space="preserve">
@@ -1222,6 +1404,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="extract" xml:space="preserve">
         <source>extract</source>
+        <target>Extraktion</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extracted" xml:space="preserve">
@@ -1231,6 +1414,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="extraction" xml:space="preserve">
         <source>extraction</source>
+        <target>Extraktion</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extraction failed" xml:space="preserve">
@@ -1245,13 +1429,24 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="file" xml:space="preserve">
         <source>file</source>
+        <target>datei</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="verification failed" xml:space="preserve">
+        <source>verification failed</source>
+        <target>Verifikation fehlgeschlagen</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="verifyed" xml:space="preserve">
+        <source>verifyed</source>
+        <target>verifiziert</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
   </file>
   <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1263,7 +1458,7 @@ You can give access to the rest of the files or the parent folder.</source>
   </file>
   <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1275,7 +1470,7 @@ You can give access to the rest of the files or the parent folder.</source>
   </file>
   <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">

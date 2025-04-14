@@ -164,6 +164,9 @@
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
 "DAr-Td-s5W.title" = "Les extractions utilisent moins de puissance, donc même en utilisant plusieurs fils, vous pouvez facilement définir cette limite à deux ou trois. Notez que le disque cible peut en souffrir.";
 
+/* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
+"DCA-p1-1uq.title" = "Utiliser des fenêtres redimensionables";
+
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "Demander avant de quitter avec des opérations en cours";
 
@@ -178,6 +181,9 @@
 
 /* Class = "NSButtonCell"; title = "Use custom name when compressing multiple files"; ObjectID = "Ei5-Ya-HGI"; */
 "Ei5-Ya-HGI.title" = "Utiliser un nom personnalisé lors de la compression de plusieurs fichiers";
+
+/* Class = "NSButtonCell"; title = "Activate Keka when starting a new operation"; ObjectID = "FMT-Gs-iEi"; */
+"FMT-Gs-iEi.title" = "Activer Keka lors du démarrage d'une nouvelle opération";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
 "G1T-Qd-OZi.title" = "Priorité des tâches (QoS):";
@@ -226,6 +232,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
 "Rgr-FP-Kua.title" = "Mot de passe par défaut :";
+
+/* Class = "NSButtonCell"; title = "Silently ignore extra trailing data"; ObjectID = "Rwo-pm-Y6t"; */
+"Rwo-pm-Y6t.title" = "Ignorer silencieusement les données de fin supplémentaires";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Autoriser l'intégration au Centre de notifications";

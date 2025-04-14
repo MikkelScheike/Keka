@@ -1,6 +1,6 @@
 
 /* Usually leave this one in English */
-"NSHumanReadableCopyright" = "Авторски права © 2009-2024 aONe";
+"NSHumanReadableCopyright" = "Авторски права © 2009-2025 aONe";
 
 /* Spotlight keywords */
 "MDItemKeywords" = "Компресия, Декомпресия, Екстракция, Архиватор, Unarchiver, Разширяване, Криптиране, Декриптиране, Архиви, Файлове";
@@ -77,3 +77,4 @@
 "Delta Controller Skin" = "Delta Controller Skin";
 "Zipped Web Archive Collection" = "Zipped Web Archive Collection";
 "Keka Extraction Package" = "Keka пакет за извличане";
+"Data" = "Data";
