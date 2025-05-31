@@ -459,16 +459,6 @@
         <target>加入檔案或檔案夾到壓縮列表</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Add some contents using the %@ button or the %@ button in the toolbar." xml:space="preserve">
-        <source>Add some contents using the %@ button or the %@ button in the toolbar.</source>
-        <target>使用%@按鈕，或者是工具列中的%@按鈕加入一些內容。</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." xml:space="preserve">
-        <source>Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar.</source>
-        <target>使用%@按鈕，或者是工具列中的%@、%@或%@按鈕加入一些內容。</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Add some contents using the %@ button." xml:space="preserve">
         <source>Add some contents using the %@ button.</source>
         <target>使用%@按鈕加入一些內容。</target>
@@ -766,11 +756,6 @@
         <target>使用Keka擷取一些檔案。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Extract the file" xml:space="preserve">
-        <source>Extract the file</source>
-        <target>擷取檔案</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Extraction" xml:space="preserve">
         <source>Extraction</source>
         <target>擷取設定</target>
@@ -913,10 +898,12 @@
       </trans-unit>
       <trans-unit id="Move compressed file(s) to Trash after extraction" xml:space="preserve">
         <source>Move compressed file(s) to Trash after extraction</source>
+        <target>擷取後將壓縮檔移到垃圾桶</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Move original file(s) to Trash after compression" xml:space="preserve">
         <source>Move original file(s) to Trash after compression</source>
+        <target>壓縮後將原始檔移到垃圾桶</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
@@ -1338,6 +1325,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Verify…" xml:space="preserve">
         <source>Verify…</source>
+        <target>驗證⋯</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Volume Size" xml:space="preserve">
@@ -1432,10 +1420,12 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="verification failed" xml:space="preserve">
         <source>verification failed</source>
+        <target>驗證失敗</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="verifyed" xml:space="preserve">
         <source>verifyed</source>
+        <target>已驗證</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
