@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Tập tin \"%@\" cần một mật khẩu để giải nén";
 "File \"%@\" needs a special encoding to be extracted" = "Tập tin \"%@\" cần một mã hoá đặt biệt để giải nén";
 "Extraction of \"%@\" done" = "Giải nén cho \"%@\" hoàn thành";
-"Extraction of \"%@\" failed." = "Giải nén cho \"%@\" thất bại.";
 "Extraction of %i files done" = "Giải nén được %i tập tin hoàn thành";
 "Extraction complete" = "Giải nén hoàn tất";
 "Extraction fail" = "Giải nén thất bại";
@@ -154,6 +153,7 @@
 "There were some read errors" = "Xuất hiện lỗi đọc dữ liệu";
 "Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
 "Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"The headers contain errors, the extraction might be invalid" = "Các tiêu đề chứa lỗi, việc giải nén có thể không hợp lệ";
 "Give access" = "Cho phép truy cập";
 "Just folder access" = "Chỉ truy cập thư mục";
 "Quit" = "Thoát";

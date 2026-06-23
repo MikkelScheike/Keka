@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Introduïu la contrasenya per extreure el contingut de l'arxiu  «%@».";
 "File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
 "Extraction of \"%@\" done" = "S'ha extret el contingut de l'arxiu «%@» correctament";
-"Extraction of \"%@\" failed." = "Ha fallat l'extracció de l'arxiu «%@».";
 "Extraction of %i files done" = "S'han extret %i arxius correctament";
 "Extraction complete" = "Extracció finalitzada";
 "Extraction fail" = "Ha fallat l'extracció";
@@ -154,6 +153,7 @@
 "There were some read errors" = "Hi han hagut errors de lectura";
 "Dismissed trailing data, the extraction might be incomplete" = "S'han descartat dades addicionals, l'extracció pot estar incompleta";
 "Window size not supported, too much memory required" = "Mida de finestra no compatible, es requereix massa memòria";
+"The headers contain errors, the extraction might be invalid" = "Les capçaleres contenen errors, l'extracció podria ser invàlida";
 "Give access" = "Donar accés";
 "Just folder access" = "Només accés a la carpeta";
 "Quit" = "Sortir";

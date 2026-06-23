@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Bestand \"%@\" heeft een wachtwoord nodig om uitgepakt te worden";
 "File \"%@\" needs a special encoding to be extracted" = "Bestand \"%@\" heeft een speciale indeling nodig om uitgepakt te worden";
 "Extraction of \"%@\" done" = "Uitpakken van \"%@\" voltooid";
-"Extraction of \"%@\" failed." = "Uitpakken van \"%@\" mislukt.";
 "Extraction of %i files done" = "Uitpakken van %i bestanden voltooid";
 "Extraction complete" = "Uitpakken voltooid";
 "Extraction fail" = "Uitpakken mislukt";
@@ -154,6 +153,7 @@
 "There were some read errors" = "Er waren lees fouten";
 "Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
 "Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"The headers contain errors, the extraction might be invalid" = "De headers bevatten fouten, de extractie kan ongeldig zijn";
 "Give access" = "Geef toegang";
 "Just folder access" = "Alleen map toegang";
 "Quit" = "Sluiten";

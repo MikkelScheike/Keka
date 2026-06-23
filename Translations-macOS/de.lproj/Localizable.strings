@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Datei „%@“ erfordert zum Entpacken ein Passwort";
 "File \"%@\" needs a special encoding to be extracted" = "Datei „%@“ erfordert zum Entpacken die Angabe der verwendeten Zeichenkodierung";
 "Extraction of \"%@\" done" = "Entpacken von „%@“ abgeschlossen";
-"Extraction of \"%@\" failed." = "Entpacken von „%@“ fehlgeschlagen.";
 "Extraction of %i files done" = "Entpacken von %i Dateien abgeschlossen";
 "Extraction complete" = "Entpacken abgeschlossen";
 "Extraction fail" = "Entpacken fehlgeschlagen";
@@ -154,6 +153,7 @@
 "There were some read errors" = "Es traten Lesefehler auf";
 "Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
 "Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"The headers contain errors, the extraction might be invalid" = "Die Header enthalten Fehler, die Extraktion könnte ungültig sein";
 "Give access" = "Zugriff erlauben";
 "Just folder access" = "Nur Ordnerzugriff";
 "Quit" = "Beenden";

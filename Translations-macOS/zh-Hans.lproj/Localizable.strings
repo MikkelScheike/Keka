@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "文件“%@”需要密码才能被提取";
 "File \"%@\" needs a special encoding to be extracted" = "文件“%@”需指定编码才能被提取";
 "Extraction of \"%@\" done" = "提取“%@”完成";
-"Extraction of \"%@\" failed." = "提取“%@”失败.";
 "Extraction of %i files done" = "%i 个文件提取完成";
 "Extraction complete" = "提取完成";
 "Extraction fail" = "提取失败";
@@ -154,6 +153,7 @@
 "There were some read errors" = "出现读取错误";
 "Dismissed trailing data, the extraction might be incomplete" = "已忽略末尾多余数据，提取结果可能不完整";
 "Window size not supported, too much memory required" = "窗口大小不受支持，所需内存过多。";
+"The headers contain errors, the extraction might be invalid" = "标头包含错误，解压可能无效";
 "Give access" = "授予访问权限";
 "Just folder access" = "仅文件夹访问权限";
 "Quit" = "退出";

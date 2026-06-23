@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "L'extraction du fichier \"%@\" requiert un mot de passe";
 "File \"%@\" needs a special encoding to be extracted" = "L'extraction du fichier \"%@\" requiert un encodage spécial";
 "Extraction of \"%@\" done" = "L'extraction de \"%@\" est terminée";
-"Extraction of \"%@\" failed." = "L'extraction de \"%@\" a échoué.";
 "Extraction of %i files done" = "Extraction de %i fichiers effectuée";
 "Extraction complete" = "Extraction terminée";
 "Extraction fail" = "Échec de l'extraction";
@@ -154,6 +153,7 @@
 "There were some read errors" = "Il y a eu des erreurs de lecture";
 "Dismissed trailing data, the extraction might be incomplete" = "Données de fin rejetées, l'extraction peut être incomplète";
 "Window size not supported, too much memory required" = "Taille de fenêtre non prise en charge, trop de mémoire nécessaire";
+"The headers contain errors, the extraction might be invalid" = "Les en-têtes contiennent des erreurs, l'extraction pourrait être invalide";
 "Give access" = "Donner l'accès";
 "Just folder access" = "Seulement l'accès au dossier";
 "Quit" = "Quitter";
